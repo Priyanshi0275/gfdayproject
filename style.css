@@ -1,0 +1,24 @@
+h1{
+   font-family: "Playwrite AT", cursive;
+   color: #f5eded;
+}
+ul{
+    font-family: "Edu AU VIC WA NT Hand", cursive;
+    color: #f5eded;
+}
+img{
+
+    margin: 30px;
+  border: 2px solid #f5eded;
+  float:right;
+  height: 200px;
+  width: 200px;
+ 
+}
+h2{
+    font-size: 55px;
+    font-family: "Kalnia Glaze", serif;
+    padding-left: 200px;
+
+
+}
